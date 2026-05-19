@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+
+# Build output
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe
+*.tlog
+*.log
+*.idb
+*.iobj
+*.ipdb
+
+# Backups
+*.bak
+*~
+
+# Duplicate source snapshot
+FutureCode/files/
+
+# Claude Code per-user settings
+.claude/settings.local.json
+

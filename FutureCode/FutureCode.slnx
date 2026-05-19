@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FutureCode.vcxproj" Id="51bd279a-dbda-4329-8324-ce35edf4d060" />
+</Solution>
